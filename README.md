@@ -1,2 +1,1 @@
-# csd215-test1
-# labb2csd215
+# komalcsd215lab2
