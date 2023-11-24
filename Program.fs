@@ -1,16 +1,25 @@
-let calculateFederalIncomeTax salary =
-    if salary > 216511.0 then
-        salary * 0.33
-    else
-        0.0 // No tax for salaries below or equal to $216,511
+type Coach = {
+    Name: String
+    FormerPlayer: bool
+}
 
-let salaries = [75000.0; 48000.0; 120000.0; 190000.0; 300113.0; 92000.0; 36000.0]
+type stats = {
+    Wins: int
+    Losses: int
+}
 
-let federalIncomeTaxes = List.map calculateFederalIncomeTax salaries
+type Team = {
+    Name: String
+    Coach: Coach
+    Stats: stats
+}
 
-printfn "Salaries: %A" salaries
-printfn "Federal Income Taxes: %A" federalIncomeTaxes
 
-
-
-
+// Create a list of 5 teams 
+let teams = [
+    {Name = "Chicago Bulls"; Coach = {Name = "Billy Donovan"; FormerPlayer= true} ; stats = {Wins=2344 ;Losses=2254 }}
+    {Name = "Indiana Pacers"; Coach = {Name = "Rick Carlisle"; FormerPlayer= true} ; stats = {Wins=1883 ;Losses=1903 }}
+    {Name = "Toronto Raptors"; Coach = {Name = "Darko Rajakovic"; FormerPlayer= true} ; stats = {Wins=1071 ;Losses=1157 }}
+    {Name = "Brooklyn Nets"; Coach = {Name = "Jacque Vaughn"; FormerPlayer= true} ; stats = {Wins=1622 ;Losses=2164 }}
+    {Name = "Atlanta Hawks"; Coach = {Name = "Quin Snyder"; FormerPlayer= true} ; stats = {Wins= 2891 ;Losses=2964 }}
+]

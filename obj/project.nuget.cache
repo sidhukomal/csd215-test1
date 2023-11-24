@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "83u3D/A1iULQv5EoYJp0WtA1JDFl2pCQE5vzbLgIAgRz0vxDfMlT5162V+LZamjkG35deHm/MTXj+SKnVH+hrg==",
+  "dgSpecHash": "z9pYXbzfx/7pBruil2UvJMlPMrchGSCzWy2v6Ecty7KsA0BBUtUbOFnoPg/WVpB2nCGxeD5n4GR7iXbSeSYYUA==",
   "success": true,
-  "projectFilePath": "C:\\Test 1\\MyFSharpApp\\MyFSharpApp.fsproj",
+  "projectFilePath": "C:\\Lab 2\\MyFSharpApp\\MyFSharpApp.fsproj",
   "expectedPackageFiles": [
     "C:\\Users\\manpr\\.nuget\\packages\\fsharp.core\\7.0.401\\fsharp.core.7.0.401.nupkg.sha512"
   ],

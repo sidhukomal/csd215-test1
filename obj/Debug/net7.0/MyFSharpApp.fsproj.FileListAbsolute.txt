@@ -56,3 +56,10 @@ C:\Test 1\MyFSharpApp\obj\Debug\net7.0\refint\MyFSharpApp.dll
 C:\Test 1\MyFSharpApp\obj\Debug\net7.0\MyFSharpApp.pdb
 C:\Test 1\MyFSharpApp\obj\Debug\net7.0\MyFSharpApp.genruntimeconfig.cache
 C:\Test 1\MyFSharpApp\obj\Debug\net7.0\ref\MyFSharpApp.dll
+C:\Lab 2\MyFSharpApp\obj\Debug\net7.0\MyFSharpApp.fsproj.AssemblyReference.cache
+C:\Lab 2\MyFSharpApp\obj\Debug\net7.0\MyFSharpApp.AssemblyInfoInputs.cache
+C:\Lab 2\MyFSharpApp\obj\Debug\net7.0\MyFSharpApp.AssemblyInfo.fs
+C:\Lab 2\MyFSharpApp\obj\Debug\net7.0\MyFSharpApp.fsproj.CoreCompileInputs.cache
+C:\Lab 2\MyFSharpApp\obj\Debug\net7.0\MyFSharpApp.dll
+C:\Lab 2\MyFSharpApp\obj\Debug\net7.0\refint\MyFSharpApp.dll
+C:\Lab 2\MyFSharpApp\obj\Debug\net7.0\MyFSharpApp.pdb
